@@ -14,7 +14,7 @@ p {
   margin: 10px;
   padding: 5px;
   
-  min-height: 180px;
+  height: 180px;
 
   background-color: #D3D3D3;
   overflow: hidden;
