@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/** NAVBAR **/
+#header-nav {
+  background-color: #D3D3D3;
+  border-radius: 0;
+  border-bottom: 2px solid black; 
+  border-top: 2px solid black;
+}
+.navbar-brand h1 {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+#collapsable-nav p {
+  font-weight: bold;
+}
+/** END OF NAVBAR **/
+
+#page-heading h1 {
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 30px;
+}
+
+/** MAIN CONTENT **/
+.sec h2 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding: 0px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.sec{
+  margin: 10px;
+  padding: 5px;
+  
+  /*height: 180px;*/
+
+  background-color: #D3D3D3;
+  overflow: hidden;
+}
+.row {
+  width: 100%;
+}
+/** END OF MAIN CONTENT **/
