@@ -18,9 +18,22 @@
   font-weight: bold;
   color: black;
 }
-#collapsable-nav p {
-  font-weight: bold;
+#collapsable-nav {
+  padding: 0px;
 }
+#collapsable-nav li {
+  background-color: white;
+  font-weight: bold;
+  padding: 5px;
+  border: 2px solid black;
+  border-bottom: 0px;
+}
+#collapsable-nav ul {
+  background-color: white;
+  margin: 0px;
+}
+
+
 /** END OF NAVBAR **/
 
 #page-heading h1 {
